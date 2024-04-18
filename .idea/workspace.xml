@@ -5,76 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3285af33-d946-4a92-a9f9-9efefdb1daf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/AWinterCamp/Arrangement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/AWinterCamp/ListArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/AWinterCamp/MapHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/AWinterCamp/NumString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/AWinterCamp/SetHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1016/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ10844/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ10986/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11003/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11047/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11050/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11286/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11404/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11657/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11659/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11660/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11689/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11725/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11726/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ11729/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1197/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1219/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1253/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1260/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ12891/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1300/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ13251/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ13398/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1352/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ14425/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ14501/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1456/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1516/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1541/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1707/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1715/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1722/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1744/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ17472/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1753V2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ18352/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1912/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1915/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1916/BOJ1753/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1929/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1931/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ1940/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2018/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2023/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2164/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2178/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2193/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2252/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2747_BottomUp/BOJ1043/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2747_TopDown/BOJ1043/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2775/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ9252/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/DFS구현/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/DFS구현_재귀/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/coding_test/p6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/coding_test/p7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/kakaoC/p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/kakaoC/p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2342/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ2501/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/BOJ3460/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/test123/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/test123/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/test123/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/test123/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/test123/db/MemoryDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/test123/db/RemoteDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -104,12 +45,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/Users/musung/Dev/algorithm/src/dataStructure/BOJ1328",
+    "last_opened_file_path": "/Users/musung/Dev/algorithm/src/dataStructure/BOJ3460",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -118,11 +60,11 @@
       <recent name="dataStructure.BOJ11657" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dataStructure/BOJ3460" />
+      <recent name="$PROJECT_DIR$/src/dataStructure/BOJ2501" />
+      <recent name="$PROJECT_DIR$/src/dataStructure/BOJ2342" />
       <recent name="$PROJECT_DIR$/src/dataStructure/BOJ1328" />
       <recent name="$PROJECT_DIR$/src/dataStructure/BOJ1915" />
-      <recent name="$PROJECT_DIR$/src/dataStructure/BOJ9252" />
-      <recent name="$PROJECT_DIR$/src/dataStructure/BOJ1912" />
-      <recent name="$PROJECT_DIR$/src/dataStructure/BO13398" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/dataStructure" />
@@ -135,7 +77,20 @@
       <recent name="dataStructure.BOJ1516" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dataStructure.BOJ1328.Main">
+  <component name="RunManager" selected="Application.dataStructure.BOJ3460.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.BOJ2342.Main" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructure.BOJ2342.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="dataStructure.BOJ1328.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dataStructure.BOJ1328.Main" />
       <module name="algorithm" />
@@ -149,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dataStructure.BOJ13398.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure.BOJ13398.Main" />
+    <configuration name="dataStructure.BOJ2501.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.BOJ2501.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructure.BOJ13398.*" />
+          <option name="PATTERN" value="dataStructure.BOJ2501.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dataStructure.BOJ1912.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure.BOJ1912.Main" />
+    <configuration name="dataStructure.BOJ3460.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.BOJ3460.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructure.BOJ1912.*" />
+          <option name="PATTERN" value="dataStructure.BOJ3460.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,25 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dataStructure.BOJ1915.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure.BOJ1915.Main" />
+    <configuration name="dataStructure.test123.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructure.test123.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructure.BOJ1915.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dataStructure.BOJ9252.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataStructure.BOJ9252.Main" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataStructure.BOJ9252.*" />
+          <option name="PATTERN" value="dataStructure.test123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dataStructure.BOJ3460.Main" />
+        <item itemvalue="Application.dataStructure.BOJ2501.Main" />
+        <item itemvalue="Application.dataStructure.test123.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.dataStructure.BOJ1328.Main" />
-        <item itemvalue="Application.dataStructure.BOJ1915.Main" />
-        <item itemvalue="Application.dataStructure.BOJ9252.Main" />
-        <item itemvalue="Application.dataStructure.BOJ13398.Main" />
-        <item itemvalue="Application.dataStructure.BOJ1912.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +176,14 @@
       <workItem from="1703153931088" duration="7430000" />
       <workItem from="1703637541361" duration="21020000" />
       <workItem from="1704171648327" duration="46034000" />
-      <workItem from="1704529671415" duration="13608000" />
+      <workItem from="1704529671415" duration="20536000" />
+      <workItem from="1704775927901" duration="8000" />
+      <workItem from="1704775990668" duration="330000" />
+      <workItem from="1706077865501" duration="7000" />
+      <workItem from="1706078026650" duration="1767000" />
+      <workItem from="1706079875733" duration="1198000" />
+      <workItem from="1710342216789" duration="45390000" />
+      <workItem from="1710586757692" duration="40251000" />
     </task>
     <servers />
   </component>
