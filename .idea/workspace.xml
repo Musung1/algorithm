@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3285af33-d946-4a92-a9f9-9efefdb1daf3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructure/연습장/힙/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructure/연습장/힙/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3285af33-d946-4a92-a9f9-9efefdb1daf3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +178,7 @@
       <workItem from="1715930521910" duration="7143000" />
       <workItem from="1716029841999" duration="1326000" />
       <workItem from="1717046735864" duration="6361000" />
-      <workItem from="1718007862741" duration="95000" />
+      <workItem from="1718007862741" duration="733000" />
     </task>
     <servers />
   </component>
