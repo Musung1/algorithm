@@ -2,6 +2,7 @@ package dataStructure.연습장.힙;
 import java.util.*;
 class Main {
     public static void main(String[] args) {
+        int[][] hello = new int[3][4];
         MyHeap myHeap = new MyHeap();
         myHeap.add(4);
         myHeap.add(1);
